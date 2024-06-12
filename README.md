@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdamirbek&label=Profile%20views&color=0e75b6&style=flat" alt="developerdamirbek" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working at **Abutech**
 
-- 💬 Ask me about **Vue, iOS**
+- 💬 Ask me about **JS, TS, React.js, Next.js**
 
 - 📫 How to reach me **devdamirbek@gmail.com**
 
