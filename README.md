@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdamirbek&label=Profile%20views&color=0e75b6&style=flat" alt="developerdamirbek" /> </p>
 
-- 🌱 I’m currently working at **Abutech**
+- 🌱 I’m currently working at **Windermere pro**
 
 - 💬 Ask me about **JS, TS, React.js, Next.js**
 
